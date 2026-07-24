@@ -1,7 +1,7 @@
 #pragma once
 
 #include "esphome/core/component.h"
-#include "esphome/components/button/button.h"
+#include "button.h"
 #include "ups_hid.h"
 
 namespace esphome {
